@@ -95,3 +95,7 @@ totalCost = round(itemPrice * quantity, 2)
 roundCost = round(totalCost, 2)
 print(f"Total Cost: {totalCost}")
 print(f"Total Cost: {roundCost}")
+
+
+# Adding this to Github
+print("Now we have created a Git repo and then adding this additional line of command to try git push and add this to git")

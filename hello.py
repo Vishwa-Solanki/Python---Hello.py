@@ -99,3 +99,6 @@ print(f"Total Cost: {roundCost}")
 
 # Adding this to Github
 print("Now we have created a Git repo and then adding this additional line of command to try git push and add this to git")
+
+# Adding this to Github
+print("Now I changed my repo name over github.com then adding this additional line of command to try git push and add this to git and check if new repo is updated or not")
